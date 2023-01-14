@@ -1,4 +1,4 @@
-# ⚡ Hackathon Project Template ⚡
+# Hackathon Project Template
 
 ## Project Name
 
